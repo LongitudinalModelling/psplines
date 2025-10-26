@@ -1,6 +1,6 @@
 # Capturing infant and child growth dynamics with P-splines mixed effects models
 
-This page contains the R analysis code and the example (synthetic) dataset from the above paper (authors: María Alejandra Hernandez, Zheyuan Li, Tim J Cole, Yi Ying Ong, Kate Tilling, Ahmed Elhakeem). The files are described below:
+This page contains the R analysis code and the example (synthetic) dataset from the above paper. The files are described below:
 
 - **1_bspline_example.R**: Generates a figure demonstrating cubic B-spline basis functions.
 
