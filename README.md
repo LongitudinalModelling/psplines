@@ -1,6 +1,8 @@
-# Capturing infant and child growth dynamics with P-splines mixed effects models. medRxiv 2025.10.22.25338570; doi: https://doi.org/10.1101/2025.10.22.25338570
+# P-splines mixed effects models
 
-This page contains the R analysis code and the example (synthetic) dataset from the above paper (authors: María Alejandra Hernandez, Zheyuan Li, Tim J Cole, Yi Ying Ong, Kate Tilling, Ahmed Elhakeem). The files are described below:
+Paper: Hernandez MA, Li Z, Cole TJ, Ong YY, Tilling K, Elhakeem A. Capturing infant and child growth dynamics with P-splines mixed effects models. medRxiv 2025.10.22.25338570; doi: https://doi.org/10.1101/2025.10.22.25338570
+
+This page contains the R analysis code and the example (synthetic) dataset from the above paper. The files are described below:
 
 - **1_bspline_example.R**: Generates a figure demonstrating cubic B-spline basis functions.
 
